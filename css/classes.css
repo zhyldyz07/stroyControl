@@ -1,0 +1,40 @@
+.btn__black {
+    font-weight: 400;
+    font-size: 17px;
+    color: #FFFFFF;
+
+    background: #212B31;
+    border: 1px solid #212B31;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+    transition: .3s;
+    padding: 13px 25px;
+    cursor: pointer;
+}
+
+.btn__black:hover {
+    color: #212b31;
+    background: #ffffff;
+}
+
+.btn__white {
+    background: #FFFFFF;
+    border: 1px solid #DADEDF;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #212B31;
+    padding: 13px 25px;
+    cursor: pointer;
+}
+
+
+.btn__white:hover {
+    color: #FFFFFF;
+    background: #ccc;
+}
+
+.container {
+    width: 1052px;
+    margin: 0 auto;
+}

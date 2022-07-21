@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url(./css/base.css);
+@import url(./css/classes.css);
+@import url(./css/header.css);
+@import url(./css/hero.css);
+@import url(./css/feature.css);
+@import url(./css/build.css);
+@import url(./css/promise.css);
+@import url(./css/stikers.css);
+/* .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 26px 31px;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    margin-left: 22px;
+    font-family: 'Inter';
+    color: #72787D;
+    font-weight: 400;
+    font-size: 16px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: #036FC7;
+
+}
+
+
+.logo {
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #212B31;
+    font-family: 'Inter';
+    display: flex;
+    align-items: center;
+}
+
+.logo__img {
+    margin-right: 8px;
+}
+
+.header__btn {
+    font-weight: 400;
+    font-style: 15px;
+    color: #ffffff;
+    background: #212B31;
+    border: 1px solid #212B31;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+    transition: 0.5s;
+    padding: 9px 20px;
+}
+
+.build__box {
+    text-align: center;
+   }
+  .build__title {
+font-family: 'Inter';
+font-weight: 400;
+font-size: 32px;
+color: #212B31;
+width: 406px;
+margin-top: 142px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16;
+  }
+
+  .build__description {
+font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+color: #72787D;
+width: 930px;
+margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+.hero__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #212B31;
+    width: 818px;
+    margin-top: 74px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+.hero__btns {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.btn__black {
+    font-weight: 400;
+    font-size: 17px;
+    color: #FFFFFF;
+
+    background: #212B31;
+    border: 1px solid #212B31;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+    transition: .3s;
+    padding: 13px 25px;
+    cursor: pointer;
+}
+
+.btn__black:hover {
+    color: #212b31;
+    background: #ffffff;
+}
+
+.btn__white {
+    background: #FFFFFF;
+    border: 1px solid #DADEDF;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #212B31;
+    padding: 13px 25px;
+    cursor: pointer;
+}
+
+
+.btn__white:hover {
+    color: #FFFFFF;
+    background: #ccc;
+}
+.hero__imgs {
+    text-align: center;
+}
+.hero__city{
+    margin-top: 88px;
+}
+.hero__cars {
+    margin-top: 36px;
+}
+.hero__btns button{
+    margin: 0 8px;
+}
+
+
+.feature__box {
+    text-align: center;
+    width: 325px;
+}
+
+.feature__title {
+font-family: 'Inter';
+font-weight: 400;
+font-size: 18px;
+color: #212B31;
+margin-top: 20px;
+}
+
+.feature__discription {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #72787D;
+margin-top: 10px;
+}
+ .feature__content {
+    display: flex;
+    justify-content: center;
+ }
+
+ .feature__box {
+    margin: 0 20px;
+ }
+  .feature {
+    margin-top: 148px; 
+  }
+  
+   .build__box {
+    text-align: center;
+   }
+  .build__title {
+font-family: 'Inter';
+font-weight: 400;
+font-size: 32px;
+color: #212B31;
+width: 406px;
+margin-top: 142px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16;
+  }
+
+  .build__description {
+font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+color: #72787D;
+width: 930px;
+margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+
+  } */
+
+ 

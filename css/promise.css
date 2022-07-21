@@ -1,0 +1,39 @@
+.promise {
+    margin-top: 144px;
+}
+
+.promise__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #212B31;
+
+}
+
+.promise__subtitle {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    color: #212B31;
+
+}
+
+.promise__description {
+    font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+color: #72787D;
+
+}
+ .promise__link {
+    font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+color: #212B31;
+
+ }
+
+ .promise__sector {
+    display: flex;
+ }

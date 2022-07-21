@@ -1,0 +1,12 @@
+.stikers {
+    margin-top: 128px;
+}
+
+.stikers__nav {
+    margin-top: 59px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 38px;
+}
